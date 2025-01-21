@@ -1,0 +1,9 @@
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\bin\Debug\Ikat.exe
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\bin\Debug\Ikat.pdb
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\obj\Debug\Ikat.csprojResolveAssemblyReference.cache
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\obj\Debug\Ikat.Form1.resources
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\obj\Debug\Ikat.Properties.Resources.resources
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\obj\Debug\Ikat.csproj.GenerateResource.Cache
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\obj\Debug\Ikat.exe
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\obj\Debug\Ikat.pdb
+c:\users\victus\documents\visual studio 2013\Projects\Ikat\Ikat\obj\Debug\Ikat.Form2.resources
